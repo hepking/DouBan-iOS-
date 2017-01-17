@@ -23,7 +23,7 @@
 
 11，last.fm：https://github.com/c99koder/lastfm-iphone 
 
-12，LBS游戏：https://github.com/Kjuly/iPokeMon  
+12，LBS游戏 基于地理位置的口袋妖怪游戏(带服务端源码)：https://github.com/Kjuly/iPokeMon 
 
 13，ThatInbox 是iOS平台上一个免费开源的Email 客户端：https://github.com/Ink/ThatInbox 
 
